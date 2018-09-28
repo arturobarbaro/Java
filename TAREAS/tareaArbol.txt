@@ -1,0 +1,3 @@
+crear un arbol binario de busqueda con el codigo visto en clase
+estudiar si es posible usar solo el metodo agregar(nodoraiz, nodo nodo). Usar solo un metodo para crear un arbol binario de busqueda
+pre, in, post crear y recorrer el arbol siguiente inventado por el alumno

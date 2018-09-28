@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NEnRaya:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NEnRaya_jar</output-path>
+    <root id="archive" name="NEnRaya.jar">
+      <element id="module-output" name="NEnRaya" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jansi-1.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

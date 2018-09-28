@@ -1,0 +1,15 @@
+mostrar el sistema de coordenadas posibles en el tablero
+
+sistema de coordenadas en la interfaz de usuario comenzando en 1 en vez de 0
+
+mostrar al usuario una lista de las coordenadas de las casillas vacias (opcion y en fila o columna)
+
+intentar optimizar para no tener que hacer el recorrido del tablero completo cada vez
+
+convertir el 3 en raya a n en raya
+
+mejorar la visualizacion del tablero usando caracteres de bordes
+
+usar jansis para mostrar las fichas de colores
+
+optimizar el metodo hay3enraya para que solo busque en las lineas afectadas por la casilla actual donde hemos se ha colocado la ficha

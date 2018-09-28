@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Casilla"},{"p":"<Unnamed>","l":"Coordenada"},{"p":"<Unnamed>","l":"Ficha"},{"p":"<Unnamed>","l":"GranAnsi"},{"p":"<Unnamed>","l":"Jugador"},{"p":"<Unnamed>","l":"Partida"},{"p":"<Unnamed>","l":"Principal"},{"p":"<Unnamed>","l":"Tablero"},{"p":"<Unnamed>","l":"TipoFicha"},{"p":"<Unnamed>","l":"TipoResultado"},{"p":"<Unnamed>","l":"Util"}]

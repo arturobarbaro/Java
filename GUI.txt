@@ -1,0 +1,20 @@
+BorderLayot ->  G.C por defecto JFrame
+FlowLayout  ->  " " JPanel
+GridLayout  -> GC (Crea tablas)
+
+Minimizar acoplamiento aumenta la reusabilidad. Mediante interfaces.
+Procuramos minimizarlo al maximo.
+
+MDI. Ventana interna, no puede desplazarse (JInternalFrame).
+SDI. Puede desplazarse fuera del frame.
+
+pack() . Provoca que la ventana sea ajsustada al tamaño preferido y colocación de sus subcomponentes. 
+El ancho y alto resultante (de la ventana) son automaticamente agrandados si cualquiera de las 
+dimensiones son menores que el tamaño minimo especificado por la llamada previa al metodo setMinimumSize.
+Si la ventana y/o su propietario no son visualizables aun, ambos son echos visualizables antes de calcular 
+el tamaño preferido. La ventana (Window) es validada una vez se ha calculado su tamaño.
+
+GridLayout
+GrigBagLayout
+
+

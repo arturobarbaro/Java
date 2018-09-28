@@ -1,0 +1,1 @@
+Comprobar si es posible con uniamente el metodo toString de publicacion sin disponer de los metodos toString de revista ni libro mostrar todos los datos (atributos) de los objetos de un arrayList polimorfica -> publicaciones que contiene 3 libros y 2 revistas.

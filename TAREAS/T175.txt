@@ -1,0 +1,2 @@
+https://docs.oracle.com/javase/9/docs/api/java/lang/Throwable.html
+https://docs.oracle.com/javase/9/docs/api/java/lang/ArithmeticException.html
